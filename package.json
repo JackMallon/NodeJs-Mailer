@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-mailer",
+  "version": "1.0.0",
+  "description": "Node Mailer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackMallon/NodeJs-Mailer.git"
+  },
+  "author": "Jack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackMallon/NodeJs-Mailer/issues"
+  },
+  "homepage": "https://github.com/JackMallon/NodeJs-Mailer#readme"
+}
