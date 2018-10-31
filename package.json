@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/JackMallon/NodeJs-Mailer/issues"
   },
-  "homepage": "https://github.com/JackMallon/NodeJs-Mailer#readme"
+  "homepage": "https://github.com/JackMallon/NodeJs-Mailer#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "nodemailer": "^4.6.8"
+  }
 }
