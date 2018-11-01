@@ -26,4 +26,4 @@ app.post('/send', (req, res) => {
 });
 
 
-app.listen(2999, () => console.log('Server started...'));
+app.listen(2999, () => console.log('Server commenced...'));
